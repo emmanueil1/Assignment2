@@ -4,4 +4,3 @@ var width:number=10;
 var height:number=5;
 var Vol:number=length*width*height;
 console.log("Volume Of Cube is =", Vol);
-
