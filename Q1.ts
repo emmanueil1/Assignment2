@@ -3,3 +3,5 @@ var length:number=20;
 var width:number=10;
 var Area:number=length*width;
 console.log("Area Of Rectangle is =", Area);
+
+
