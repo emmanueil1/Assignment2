@@ -1,5 +1,5 @@
 "use strict";
-//Q 3:  Write a program that checks if a given number is even or odd
+//Q 4:  Write a program that checks if a given number is even or odd
 var num1 = 5;
 if (num1 % 2 == 0) {
     console.log("Given Number is Even");
